@@ -1,16 +1,16 @@
-layout_spectrum: 0.11479270597919822
-typography_spectrum: 0.785836742259562
+layout_spectrum: 0.9878183614928275
+typography_spectrum: 0.26888936711475253
 color:
-  brandStrength: 0.5038747966755182
-  lightness: 0.8205293270293623
-  saturation: 0.22461150377057493
-  rhythmicContrast: 0.9327805270440876
+  brandStrength: 0.09021413838490844
+  lightness: 0.5595801973249763
+  saturation: 0.07754687778651714
+  rhythmicContrast: 0.29329902050085366
   brandColors:
-    - '#5A1F00'
-    - '#D1570D'
-    - '#FDE792'
-    - '#477725'
-    - '#A9CC66'
+    - '#00261C'
+    - '#044D29'
+    - '#168039'
+    - '#45BF55'
+    - '#96ED89'
 name: The DJ Music Studio
 navigation:
   - name: Facebook Page
