@@ -12,5 +12,9 @@ color:
     - '#DD403A'
 layout_spectrum: 0.3014511242508888
 name: The DJ Music Studio
+navigation:
+  - name: Facebook Page
+    url: 'https://www.facebook.com/TheDJMusicStudio/'
+    type: external
 title: 'We made it, but there''s still more to be done.'
 description: 'We''ve come this far, we can''t quit now.'
