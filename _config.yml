@@ -16,5 +16,8 @@ navigation:
   - name: Facebook Page
     url: 'https://www.facebook.com/TheDJMusicStudio/'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/DJMusicStudio'
+    type: external
 title: 'We made it, but there''s still more to be done.'
 description: 'We''ve come this far, we can''t quit now.'
